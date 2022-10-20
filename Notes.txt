@@ -1,0 +1,17 @@
+----------x-----------x-----------x-----------x-------------------
+				   Procedure
+----------x-----------x-----------x-----------x-------------------
+1. facial recog. 
+2. Reverse search image of a face to get identity details.
+
+----------x-----------x-----------x-----------x-------------------
+				      Tools
+----------x-----------x-----------x-----------x-------------------
+1. exiv2 (originally pre-installed on kali linux) command line MS Visual Studio --- Doesn't show gps coords
+2. jimpl website (Metadata of photos)
+
+----------x-----------x-----------x-----------x-------------------
+				      Resources
+----------x-----------x-----------x-----------x-------------------
+1. Youtube video for facial recognition and identifying the person using a database - https://www.youtube.com/watch?v=5yPeKQzCPdI
+2. 
